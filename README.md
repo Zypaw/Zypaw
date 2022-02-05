@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Zypaw
+- 📍 I'm from French
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning how to make website
 - 📫 How to reach me : zypawytb@gmail.com
