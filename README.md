@@ -9,7 +9,7 @@ Zypaw/Zypaw is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-### <p align="center">👀 &nbsp;Visites</p>
+### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/Zypaw/count.svg" />
